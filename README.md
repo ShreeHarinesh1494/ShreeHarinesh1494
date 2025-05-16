@@ -39,7 +39,7 @@ I am a **Final Year Student** at **Sri Krishna College of Technology, Coimbatore
 > A Web App to publish and analyze the marks scored by student . It is mainly developed with an idea to implement in college basis.
 
 # 🔹 [🧠 GPAlytics – AI-Powered CGPA Assistant](https://gpalytics-lime.vercel.app/)
->Smarter Ways to Your CGPA Goals
+> Smarter Ways to Your CGPA Goals
 GPAlytics is a professional, frontend-only AI web application built with React, designed to help students analyze their GPA trends, visualize academic progress, and receive intelligent suggestions to reach their target CGPA.
 ---
 
