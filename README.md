@@ -1,5 +1,8 @@
 # Hi there, I'm Shree Harinesh S 👋
 
+🌐 Portfolio Website
+🔗 [Visit My Portfolio](my-portfolio-one-drab-74.vercel.app) – Explore my projects, skills, resume, and more!
+
 I am a **Final Year Student** at **Sri Krishna College of Technology, Coimbatore**, passionate about **programming**, **problem-solving**, and most notably **Java** and **Cloud computing**. I’m a fast learner, a leader, and love to tackle new challenges. Here’s a little about me:
 
 ---
